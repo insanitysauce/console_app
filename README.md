@@ -1,4 +1,4 @@
 console_app
 ===========
 
-lostechies git walkthroug repo
+lostechies git walkthrough repo
